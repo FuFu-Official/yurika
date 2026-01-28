@@ -77,6 +77,43 @@ export const ja: Translation = {
 	[Key.animeEmptyLocal]:
 		"src/data/anime.tsのファイルにアニメの情報を追加してください",
 
+	// 書籍ページ
+	[Key.book]: "書籍",
+	[Key.bookTitle]: "私の本棚",
+	[Key.bookSubtitle]: "読書記録とコレクション",
+	[Key.bookFilterAll]: "すべて",
+	[Key.bookStatusReading]: "読書中",
+	[Key.bookStatusCompleted]: "読了",
+	[Key.bookStatusPlanned]: "積読",
+	[Key.bookStatusOnHold]: "一時停止",
+	[Key.bookStatusDropped]: "中断",
+    [Key.bookFilterAll]: "すべて",
+	[Key.bookYear]: "年",
+	[Key.bookAuthor]: "著者",
+    [Key.bookPublisher]: "出版社",
+    [key.bookChapters]: "章数",
+    [Key.bookEmpty]: "書籍データなし",
+	[Key.bookEmptyBangumi]: "Bangumi設定またはネットワーク接続を確認してください",
+	[Key.bookEmptyLocal]: "に書籍データを追加してください",
+
+	// ゲームページ
+	[Key.game]: "ゲーム",
+	[Key.gameTitle]: "私のゲームリスト",
+	[Key.gameSubtitle]: "ゲームの旅を記録する",
+	[Key.gameFilterAll]: "すべて",
+	[Key.gameStatusPlaying]: "プレイ中",
+	[Key.gameStatusCompleted]: "クリア",
+	[Key.gameStatusPlanned]: "予定",
+	[Key.gameStatusOnHold]: "一時停止",
+	[Key.gameStatusDropped]: "中断",
+	[Key.gameYear]: "年",
+	[Key.gameDeveloper]: "開発",
+	[Key.gamePlatform]: "プラットフォーム",
+    [Key.gamePlaytime]: "プレイ時間",
+	[Key.gameEmpty]: "ゲームデータなし",
+	[Key.gameEmptyBangumi]: "Bangumi設定またはネットワーク接続を確認してください",
+	[Key.gameEmptyLocal]: "にゲームデータを追加してください",
+
 	// 日記ページ
 	[Key.diarySubtitle]: "いつでも、どこでも生活を共有",
 	[Key.diaryCount]: "件の日記のエントリー",
