@@ -327,7 +327,7 @@ pubDate: 2025-10-28
     </div>
   </div>
 
-  <div class="video-container">
+<div class="video-container">
     <video controls autoplay loop muted>
       <source src="/posts/ghostbust_hotline/trailer.mp4" type="video/mp4" />
       Your browser does not support the video type.
@@ -338,7 +338,7 @@ pubDate: 2025-10-28
 
 ![Ghostbust Hotline](/posts/ghostbust_hotline/ghostbust_hotline.png)
 
- <div class="description-section">
+<div class="description-section">
     <p>
       Ghostbust Hotline is an immersive 2D top-down
       dungeon-crawling shooter RPG that combines intense action with strategic
@@ -572,7 +572,7 @@ pubDate: 2025-10-28
     <div class="resource-card">
       <i>📖</i>
       <h3>Project Booklet</h3>
-      <p>Comprehensive guide covering gameplay instructions and design process</p> 
+      <p>Comprehensive guide covering gameplay instructions and design process</p>
       <a href="/posts/ghostbust_hotline/booklet.pdf" target="_blank"
         >Download PDF</a
       >
@@ -597,7 +597,7 @@ pubDate: 2025-10-28
     </div>
   </div>
 
-  <h2 class="section-title">👥 Development Team</h2>
+<h2 class="section-title">👥 Development Team</h2>
   <div class="developers-section">
     <img
       src="/posts/ghostbust_hotline/lolipopstudios.png"
@@ -610,7 +610,7 @@ pubDate: 2025-10-28
     <div class="tagline">"Sweet ideas, crunchy gameplay" 🍭</div>
   </div>
 
-  <h2 class="section-title">🙏 Acknowledgements</h2>
+<h2 class="section-title">🙏 Acknowledgements</h2>
   <div class="acknowledgements-section">
     <p style="text-align: center; margin-bottom: 1.5rem">
       This project was made possible thanks to:

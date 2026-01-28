@@ -46,6 +46,7 @@ This blog will keep updating with the problems and solutions I encountered while
                                          │└──────────────┴──────────────────────────────────────────────┘│
                                          └───────────────────────────────────────────────────────────────┘
 `````
+
 ---
 
 # Grub

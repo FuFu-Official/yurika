@@ -100,7 +100,7 @@ calib middle_preprocess \
 ### Initial Guess
 
 ```sh
- ros2 run direct_visual_lidar_calibration initial_guess_manual middle_preprocess
+ros2 run direct_visual_lidar_calibration initial_guess_manual middle_preprocess
 ```
 
 手动将点云数据大致对齐到图像中，保存初始猜测结果。
