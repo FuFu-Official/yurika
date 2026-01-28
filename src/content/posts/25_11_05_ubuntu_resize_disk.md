@@ -122,25 +122,34 @@ Or you can try to unmount the partition by right-clicking on it and selecting "U
 
 :::
 
-If the unallocated space is adjacent to the partition you want to resize. Right-click on the partition and select `Resize/Move`.
-Adjust the size by dragging the slider or entering the desired size manually, then click `Resize/Move` to apply the changes.
-Then click the green apply button to execute the pending operations.
+### 1️⃣ 如果空间相邻 / If unallocated space is adjacent
+**如果未分配的空间与您想要调整大小的分区相邻：**
+**If the unallocated space is adjacent to the partition you want to resize:**
 
-如果未分配的空间与您想要调整大小的分区相邻。右键点击该分区并选择 `Resize/Move`。
-通过拖动滑块或手动输入所需大小来调整大小，然后点击 `Resize/Move` 以应用更改。然后点击绿色的应用按钮来执行待处理的操作。
+- **步骤 1**: 右键点击该分区并选择 `Resize/Move`。  
+    Right-click on the partition and select `Resize/Move`.
+
+- **步骤 2**: 通过拖动滑块或手动输入所需大小来调整大小，然后点击 `Resize/Move` 以应用更改。  
+    Adjust the size by dragging the slider or entering the desired size manually, then click `Resize/Move` to apply the changes.
+
+- **步骤 3**: 点击**绿色应用按钮**来执行待处理的操作。  
+    Then click the **green apply button** to execute the pending operations.
 
 <img src="/posts/25_11_05_ubuntu_resize_disk/resize.png" alt="Resize Partition" width="60%">
 
-If the unallocated space is not adjacent to the partition you want to resize.
-You may need to move other partitions to make the unallocated space adjacent.
-Right-click on the partition that is between the unallocated space and the target partition, select `Resize/Move`, and drag the entire partition to the left or right to make space adjacent.
-Or you can adjust the number of `Free space preceding` or `Free space following` to move the partition.
-Repeat this process until the unallocated space is next to the target partition.
-Then proceed to resize the target partition as described above.
 
-如果未分配的空间不与您想要调整大小的分区相邻。
-您可能需要移动其他分区以使未分配的空间相邻。
-右键点击未分配空间和目标分区之间的分区，选择 `Resize/Move`，并将整个分区向左或向右拖动以使空间相邻。
-或者，您可以调整`Free space preceding`或 `Free space following`的数量来移动分区。
-重复此过程，直到未分配的空间位于目标分区旁边。
-然后按照上述说明调整目标分区的大小。
+### 2️⃣ 如果空间不相邻 / If unallocated space is NOT adjacent
+**如果未分配的空间不与您想要调整大小的分区相邻，您需要移动中间的分区：**
+**If the unallocated space is not adjacent to the partition you want to resize, you may need to move other partitions to make the unallocated space adjacent.**
+
+- **操作方法 / How to move:**
+    - 右键点击位于未分配空间和目标分区之间的分区，选择 `Resize/Move`。  
+        Right-click on the partition that is between the unallocated space and the target partition, select `Resize/Move`.
+    - **平移分区**：将整个分区向左或向右拖动，或调整 `Free space preceding` (前侧剩余空间) 或 `Free space following` (后侧剩余空间) 的数值。  
+        Drag the entire partition to the left or right, or adjust the number of `Free space preceding` or `Free space following` to move the partition.
+
+- **重复步骤**: 重复此过程，直到未分配空间位于目标分区旁边。  
+    Repeat this process until the unallocated space is next to the target partition.
+
+- **完成**: 最后按照“情况 1”的说明调整目标分区。  
+    Then proceed to resize the target partition as described above.

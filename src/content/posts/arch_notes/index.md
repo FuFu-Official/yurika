@@ -7,7 +7,7 @@ tags: [Linux, Arch, Hyprland, Configuration]
 category: Linux
 licenseName: "Unlicensed"
 author: FuFu
-draft: false
+draft: true
 image: "arch.webp"
 date: 2025-10-29
 pubDate: 2025-10-29
