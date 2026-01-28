@@ -122,7 +122,7 @@ Or you can try to unmount the partition by right-clicking on it and selecting "U
 
 :::
 
-### 1️⃣ 如果空间相邻 / If unallocated space is adjacent
+### 如果空间相邻 / If unallocated space is adjacent
 **如果未分配的空间与您想要调整大小的分区相邻：**
 **If the unallocated space is adjacent to the partition you want to resize:**
 
@@ -138,7 +138,7 @@ Or you can try to unmount the partition by right-clicking on it and selecting "U
 <img src="/posts/25_11_05_ubuntu_resize_disk/resize.png" alt="Resize Partition" width="60%">
 
 
-### 2️⃣ 如果空间不相邻 / If unallocated space is NOT adjacent
+### 如果空间不相邻 / If unallocated space is NOT adjacent
 **如果未分配的空间不与您想要调整大小的分区相邻，您需要移动中间的分区：**
 **If the unallocated space is not adjacent to the partition you want to resize, you may need to move other partitions to make the unallocated space adjacent.**
 
