@@ -85,8 +85,8 @@ Basically, the script, just like bash scripts, is corresponding to your behavior
 
 If you still end up at a `grub>` prompt after enrolling your MOK key:
 
-- Use ls to find your EFI/Boot partition (e.g., (hd0,gpt2)).
-- Run ls (hd0,gpt2)/grub/ to verify the existence of grub.cfg. (press `TAB` and auto-completion will tell you whether the `@` should be included)
+- Use `ls` to find your EFI/Boot partition (e.g., (hd0,gpt2)).
+- Run `ls (hd0,gpt2)/grub/` to verify the existence of grub.cfg. (press `TAB` and auto-completion will tell you whether the `@` should be included)
 - Manually boot by typing: `configfile /path/to/grub.cfg`
 
 Once back in Linux, update your script with the correct UUID and Prefix to permanently fix the issue.
