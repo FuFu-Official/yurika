@@ -14,7 +14,7 @@ pubDate: 2026-02-04
 
 # Secure Boot with GRUB
 
-It is necessary to have Secure Boot diabled in the process of installing Linux distributions like Arch.
+It is necessary to have Secure Boot disabled in the process of installing Linux distributions like Arch.
 However, some users may want to enable Secure Boot after installation for specific reasons.
 For example, to play some games with anti-cheat mechanisms that require Secure Boot to be enabled, including Valorant and Call of Duty.
 Check the references section to comprehensively understand the process of enabling Secure Boot with GRUB.
