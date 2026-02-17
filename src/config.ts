@@ -191,7 +191,7 @@ export const siteConfig: SiteConfig = {
     useJapaneseBadge: false, // 使用日语假名标记（あいうえお...）代替数字，开启后会将 1、2、3... 改为 あ、い、う...
   },
   showCoverInContent: true, // 在文章内容页显示文章封面
-  generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
+  generateOgImages: true, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
   favicon: [
     // 留空以使用默认 favicon
     // {
