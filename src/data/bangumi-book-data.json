@@ -72,6 +72,24 @@
     "totalChapters": 8
   },
   {
+    "title": "污秽不堪的你最惹人怜爱",
+    "status": "planned",
+    "rating": 6.9,
+    "cover": "https://lain.bgm.tv/r/800/pic/cover/l/7a/ec/285054_GuQL6.jpg",
+    "description": "带着些许异样...病娇的百合故事.....\r\n\r\n濑崎爱吏与花邑雏子。在班级里既不属于同个圈子、社交圈层也毫无交集的两人，却怀揣着不可告人的秘密。那是充斥着爱意、算计与性癖的少女们秘事……",
+    "year": "2019",
+    "genre": [
+      "百合",
+      "漫画",
+      "扭曲"
+    ],
+    "author": "花咲まにお",
+    "publisher": "一迅社",
+    "link": "https://bgm.tv/subject/285054",
+    "progress": 0,
+    "totalChapters": 5
+  },
+  {
     "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
     "status": "planned",
     "rating": 7.4,
@@ -116,8 +134,8 @@
     "year": "2025",
     "genre": [
       "百合",
-      "单行本",
-      "原创"
+      "日本",
+      "单行本"
     ],
     "author": "苗川采",
     "publisher": "KADOKAWA",
@@ -249,7 +267,7 @@
     "publisher": "KADOKAWA",
     "link": "https://bgm.tv/subject/328731",
     "progress": 0,
-    "totalChapters": 14
+    "totalChapters": 16
   },
   {
     "title": "我想成为你的眼泪",
