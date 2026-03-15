@@ -14,6 +14,14 @@ export interface DiaryItem {
 // 示例日记数据
 const diaryData: DiaryItem[] = [
   {
+    id: 3,
+    content: "Enjoying the birthday surprise from my college club. 🎂",
+    date: "2026-03-15T22:40:00+08:00",
+    images: [
+      "/images/diary/cake.jpg",
+    ],
+  },
+  {
     id: 2,
     content:
       "五连冠～！第八冠！🏆🏆🏆🏆🏆🎉🎉🎉🎉🎉 恭喜成都AG超玩会夺得2025KPL年度总决赛总冠军！恭喜一诺拿下生涯第二个FMVP! 王朝还在继续！🔥🔥🔥",
