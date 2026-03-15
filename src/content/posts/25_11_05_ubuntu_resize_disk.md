@@ -3,7 +3,7 @@ title: Expand Storage on Ubuntu
 published: 2025-11-05
 pinned: false
 description: A guide on how to expand storage (resize disk or partition) on Ubuntu.
-tags: [Linux, Ubuntu]
+tags: [Linux, Ubuntu, Configuration]
 category: Linux
 licenseName: "Unlicensed"
 author: FuFu

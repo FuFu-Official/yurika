@@ -3,7 +3,7 @@ title: Secure Boot with GRUB
 published: 2026-02-04
 pinned: false
 description: Script to enable Secure Boot with GRUB on Arch Linux systems.
-tags: [Linux, Tools]
+tags: [Linux, Script]
 category: Linux
 licenseName: "Unlicensed"
 author: FuFu
