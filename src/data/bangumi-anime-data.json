@@ -89,8 +89,8 @@
     "year": "2025",
     "genre": [
       "原创",
-      "P.A.WORKS",
-      "美食"
+      "美食",
+      "P.A.WORKS"
     ],
     "studio": "ひびめし製作委員会（Aniplex、ABCアニメーション、名古屋テレビ、TOKYO MX、日本BS放送、ムービック、P.A.WORKS）",
     "link": "https://bgm.tv/subject/531159",
@@ -102,7 +102,7 @@
   {
     "title": "与你相恋到生命尽头",
     "status": "planned",
-    "rating": 8.7,
+    "rating": 8.8,
     "cover": "https://lain.bgm.tv/r/800/pic/cover/l/b3/26/541285_U8JJL.jpg",
     "description": "生きたいも、好きも、全部君が教えてくれた\r\n身寄りのない子供を\r\n戦争用の兵器として育てる学校に通う少女たち。\r\n人を殺すための授業、\r\n誰が死んでも悲しむことさえままならない日常。\r\n自分の境遇を受け入れられずにいる14才のシーナは\r\nある夜、血まみれの小さな女の子・ミミと出会った――",
     "episodes": "0 episodes",
@@ -118,6 +118,26 @@
     "totalEpisodes": 0,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "title": "吹响吧！上低音号",
+    "status": "completed",
+    "rating": 7,
+    "cover": "https://lain.bgm.tv/r/800/pic/cover/l/37/df/115908_c0uQj.jpg",
+    "description": "进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+    "episodes": "14 episodes",
+    "year": "2015",
+    "genre": [
+      "京阿尼",
+      "音乐",
+      "校园"
+    ],
+    "studio": "京都アニメーション",
+    "link": "https://bgm.tv/subject/115908",
+    "progress": 0,
+    "totalEpisodes": 14,
+    "startDate": "2015-04-07",
+    "endDate": "2015-04-07"
   },
   {
     "title": "莉兹与青鸟",
@@ -310,7 +330,7 @@
     "genre": [
       "芳文社",
       "音乐",
-      "CloverWorks"
+      "轻百合"
     ],
     "studio": "CloverWorks",
     "link": "https://bgm.tv/subject/328609",
