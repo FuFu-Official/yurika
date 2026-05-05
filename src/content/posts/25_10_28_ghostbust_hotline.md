@@ -604,9 +604,9 @@ pubDate: 2025-10-28
       alt="Lolipop Studios Logo"
       class="studio-logo"
     />
-    <div class="developers-list">
-      <strong>Apeel Subedi • Hongrui Fu • Tiantong Li</strong>
-    </div>
+    <!-- <div class="developers-list"> -->
+    <!--   <strong>Apeel Subedi • Hongrui Fu • Tiantong Li</strong> -->
+    <!-- </div> -->
     <div class="tagline">"Sweet ideas, crunchy gameplay" 🍭</div>
   </div>
 
